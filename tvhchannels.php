@@ -1,7 +1,7 @@
 <?php
 	/* First, download channel list of Tvheadend (tvh) server:
 	http://<username>:<password>@<IP of tvh server>:<port>/playlist/channels
-	You obtain the file channels.m3u with the following structure:
+	You will obtain the file channels.m3u with the following structure:
 
 	#EXTM3U
 	#EXTINF:-1 logo="<URI to channel logo>" tvg-id="<a hash value>",<channel name>
